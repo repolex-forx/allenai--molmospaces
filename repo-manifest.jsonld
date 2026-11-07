@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/molmospaces/commit/1c2d511e224c7baf38332fd20fd28f7e1d25ab08",
       "git:hexsha": "1c2d511e224c7baf38332fd20fd28f7e1d25ab08",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/allenai/molmospaces/commit/286594efb3672f6c1fd08bd2d660ff46b1672c71",
